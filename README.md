@@ -11,5 +11,4 @@ $ python main.py
 ```
 
 ## Todo
-- Allow special characteres
 - Type in one line
